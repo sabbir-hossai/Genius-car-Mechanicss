@@ -7,7 +7,7 @@ import banerImage3 from '../../src/images/banner/banner3.jpg';
 const Slider = () => {
     return (
         < >
-            <Carousel>
+            <Carousel id="home">
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
