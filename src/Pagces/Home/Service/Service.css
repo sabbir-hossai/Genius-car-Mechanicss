@@ -1,0 +1,7 @@
+.service-container{
+    background-color: rgb(204, 232, 222);
+    border-radius: 20px;
+}
+.service-container img{
+    width: 100%;
+}
